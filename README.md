@@ -4,6 +4,10 @@ A bedside music player and clock for Android. It plays your liked songs from **Y
 
 **Download:** get `NightstandPlayer.apk` from the [latest release](../../releases/latest). Once installed, the app checks here for updates and installs them itself.
 
+## About
+
+Nightstand Player is made by one person, in his spare time. He hopes you enjoy it as much as he enjoyed making it.
+
 ## What's new in 1.2.2
 
 - Skins in Settings: Retro Amp, Click Wheel, Turntable and Cherry Blossom
