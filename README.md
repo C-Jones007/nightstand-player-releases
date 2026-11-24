@@ -8,7 +8,17 @@ A bedside music player and clock for Android. It plays your liked songs from **Y
 
 Nightstand Player is made by one person, in his spare time. He hopes you enjoy it as much as he enjoyed making it.
 
-## What's new in 1.2.2
+## What's new in 1.2.3
+
+- Home-screen widget: the song's cover and name with back, play/pause and next
+- Repeat button above the time bar: the same song again until you skip or turn it off
+- Redeem a code (Settings → About) to unlock special skins and themes
+- Special items can be removed and redeemed again, and update themselves
+- Special themes and skins can bring their own pictures behind the clock and the player
+- Night mode setting is now a fold-out row
+- Skin layouts checked and fixed, upright and sideways
+
+### Earlier: 1.2.2
 
 - Skins in Settings: Retro Amp, Click Wheel, Turntable and Cherry Blossom
 - Retro Amp lights follow the music, and its list shows the next 5 songs (tap one to play it)
@@ -27,6 +37,7 @@ Nightstand Player is made by one person, in his spare time. He hopes you enjoy i
 - Your YouTube Music and Spotify playlists, plus genre playlists made automatically from your likes
 - Live search for songs, artists and albums, and instant search of your own songs (works offline)
 - Like button that saves back to YouTube Music or Spotify
+- Repeat button to play the same song again and again
 - Crossfade between songs, and next songs loaded early so they start at once
 - Volume leveler, so every song plays at about the same loudness
 - Offline music: on Wi-Fi it keeps about 1.5–2 hours of your likes on the phone for when there's no internet
@@ -39,6 +50,7 @@ Nightstand Player is made by one person, in his spare time. He hopes you enjoy i
 **Look**
 - Skins: Retro Amp, Click Wheel, Turntable and Cherry Blossom
 - Six colour themes: Ember, Ocean, Mint, Rose, OLED and Paper
+- Special skins and themes unlocked with a code
 - Night mode that slowly dims the screen at night
 
 **Bedtime**
@@ -46,6 +58,7 @@ Nightstand Player is made by one person, in his spare time. He hopes you enjoy i
 - Alarm that wakes the screen and fades the music in, on the weekdays you choose
 
 **Everyday**
+- Home-screen widget with the song and back / play-pause / next
 - Pauses for other apps' sound and starts again after
 - Small "Offline" / "Connection unstable" bar
 - In-app updates with a "what's new" list
